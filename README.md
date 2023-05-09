@@ -1,6 +1,8 @@
 # Undirtify
 
-Undirtify is an open source geotechnical borehole logging tool that allows users to log their boreholes using their laptops or smart devices while on site. This eliminates the need for traditional paper and pen techniques, making the logging process faster, more accurate, and more environmentally friendly. With Undirtify, users can easily record and share data from their boreholes, making it a valuable tool for geotechnical engineers, geologists, and other professionals who work with subsurface data. The open source nature of Undirtify also means that it can be customized and improved by the community, making it a truly collaborative effort. This repository contains the source code for the Undirtify website, built using Golang, PostgreSQL, and React with Tailwind CSS.
+Undirtify is an open source geotechnical borehole logging tool that allows users to log their boreholes using their laptops or smart devices while on site. This eliminates the need for traditional paper and pen techniques, making the logging process faster, more accurate, and more environmentally friendly. With Undirtify, users can easily record and share data from their boreholes, making it a valuable tool for geotechnical engineers, geologists, and other professionals who work with subsurface data. The open source nature of Undirtify also means that it can be customized and improved by the community, making it a truly collaborative effort. 
+
+This repository contains the source code for the Undirtify website, built using Golang, PostgreSQL, and React with Tailwind CSS.
 
 ## Getting started
 
